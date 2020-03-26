@@ -1,0 +1,27 @@
+{
+    "A image files" : ["A"],
+    "B image files" : ["B"],
+    "A image probability" : 0.5,
+    "Monitor distance" : 19,
+    "Monitor size" : 22,
+    "Field of view degrees" : [20],
+    "Field of view weights" : [1],
+    "Relative coordinates" : [[0.5,0.5]],
+    "Relative coordinates weights" : [1],
+    "Give reward without lick" : 0,
+    "Give shock" : 1,
+    "Cue duration" : 0,
+    "Cue sound duration" : 0,
+    "Stimulus duration" : 4,
+    "Correct response visual duration" : 3,
+    "Correct response sound duration" : 1,
+    "Wrong response flash duration" : 2,
+    "Wrong response rest duration" : 5,
+    "Wrong response sound duration" : 2
+}
+
+
+
+
+
+

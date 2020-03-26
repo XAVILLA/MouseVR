@@ -1,0 +1,32 @@
+{
+    "Rule A image files" : ["Arule"],
+    "Rule B image files" : ["Brule"],
+    "Rule A Frequency" : 440,
+    "Rule B Frequency" : 880,
+    "Rule A probability" : 0.5,
+    "Stimulus A image files" : ["Astim"],
+    "Stimulus B image files" : ["Bstim"],
+    "Stimulus A Frequency" : 440,
+    "Stimulus B Frequency" : 880,
+    "Stimulus A probability" : 0.5,
+    "Is Sound for Rule" : 1,
+    "Is Sound for Stimulus" : 0,
+    "Monitor distance" : 19,
+    "Monitor size" : 22,
+    "Field of view degree" : 20,
+    "Give shock" : 1,
+    "Rule duration" : 2,
+    "Delay duration" : 3,
+    "Stimulus duration" : 3,
+    "Correct response visual duration" : 3,
+    "Correct response sound duration" : 1,
+    "Wrong response flash duration" : 1,
+    "Wrong response rest duration" : 2,
+    "Wrong response sound duration" : 2
+}
+
+
+
+
+
+
